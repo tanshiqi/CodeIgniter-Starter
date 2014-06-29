@@ -1,0 +1,27 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"system",
+				"userguide",
+				"node_modules",
+				"application/cache",
+				"application/errors",
+				"application/helpers",
+				"application/libraries",
+				"application/hooks",
+				"application/language",
+				"application/log",
+				"application/third_party"
+			],
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"tab_size": 4
+	}
+}

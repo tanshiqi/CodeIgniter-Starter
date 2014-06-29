@@ -1,0 +1,40 @@
+/* Inspiro Colors RED */
+
+
+h1, h2, h3, h4, h5, h6 { color: #666666;}
+
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #999999;}
+
+
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover { color: #e73420;}
+
+h2 { color: #666666;}
+#navigation .selector { background: #CC6633;}
+#navigation #main-menu > ul > li > a.active {background: none repeat scroll 0 0 #CC6633;  color: #FFFFFF;}
+#navigation #main-menu > ul > li > a.active-trail {	background-color: #CC6633;color: #fff;}
+
+
+body a { color: #CC6633;}
+
+
+body a:hover { text-decoration: none; color: #CC9999;}
+
+.progressbar-yellow .progressbar-inner{background-color:#CC6633;}
+
+.progressbar .progressbar-inner{background-color:#CC6633;}
+
+.field-name-field-tags a{ background: #CC6633; }
+
+.form-submit {background-color:#CC6633; color:#FFF;}
+
+.links li a {background-color:#CC6633; color:#FFF;}
+
+
+.links li a:hover {  background-color: #CC9999;  color: #FFF;}
+
+.pictured { background-color:#CC6633; color:#FFF;}
+
+.button { background-color:#CC6633; color:#FFF;}
+
+.button a:hover { background-color:#CC9999; }

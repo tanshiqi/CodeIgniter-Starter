@@ -1,0 +1,72 @@
+
+/* Background slide text */
+/* Import Fonts
+------------------------------------------------------------ */
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,700);
+
+.headertxt_fscreen {position: absolute; bottom: 0; right: 0;}
+
+
+.headertxt {
+	width: 100%;
+	margin: 0 auto;
+	clear: both;
+	position: relative;
+	top: 74px;
+}
+
+#firstline {
+text-shadow: 1px 1px #000000;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 900;
+	color: #FFF;
+	text-decoration: none;
+	font-size: 60px;
+	padding: 4px 13px 7px;
+	float: right;
+	display: block;
+	line-height: normal;
+}
+#secondline {
+	text-shadow: 1px 1px #000000;
+	font-family: 'Ubuntu', sans-serif;
+	color: #FFF;
+	text-decoration: none;
+	font-size: 16px;
+	padding: 4px 13px 7px;
+	float: right;
+	display: block;
+	clear: both;
+	white-space: pre-wrap;
+}
+/* Background slide button */
+
+#link {
+	float: left;
+	display: block;
+	clear: both;}
+
+.pictured {
+	font-size: 12px;
+	padding: 9px 16px;
+	text-transform: uppercase;
+	float: right;
+	display: block;
+	clear: both;
+	margin-top: 10px;
+	display: block;
+}
+.pictured a {
+	font-size: 16px;
+	font-style: italic;
+	letter-spacing: 0;
+	text-transform: none;
+	color: #FFF;
+	text-decoration: none;
+}
+.pictured a:hover {
+	text-decoration: underline;
+}
+
+/* Background slide controls (buttons) */
+
